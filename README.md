@@ -216,3 +216,6 @@ When the wizard is done, restart the application and run the exploits again to c
 =======
 # 8.2CDevSecOps
 >>>>>>> bbadf8a41b0be4758284a97b5d10c07790ecf2fe
+
+
+Testing Jenkins automatic trigger
